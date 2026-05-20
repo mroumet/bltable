@@ -15,7 +15,9 @@ presence of missing data.
 `gtsummarytools` is easiest to install via
 
 <!-- ```{r, eval = FALSE} -->
+
 <!-- install.packages('CTUtemplate', repos = c('https://dcr-unibe-ch.r-universe.dev', 'https://cloud.r-project.org')) -->
+
 <!-- ``` -->
 
 Linux users might have to install from source:
